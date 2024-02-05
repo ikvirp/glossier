@@ -13,6 +13,7 @@
     "@radix-ui/react-label": "^2.0.2",
     "@radix-ui/react-slot": "^1.0.2",
     "@sanity/image-url": "^1.0.2",
+    "@sanity/vision": "^3.27.1",
     "@stripe/stripe-js": "^2.3.0",
     "antd": "^5.13.3",
     "class-variance-authority": "^0.7.0",
