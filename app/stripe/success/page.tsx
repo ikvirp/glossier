@@ -1,6 +1,6 @@
 import { CheckCheck } from "lucide-react";
 
-export default function () {
+export default function stripeError() {
   return (
     <div className="h-screen">
       <div className="mt-32 md:max-w-[50vw] mx-auto">
